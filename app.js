@@ -7,10 +7,10 @@ cartao.innerHTML = `
 <div class="cartao_conteudo">
 <h3>${categoria}</h3>
 <div class="cartao_conteudo_pergunta">
-<p>$pergunta</p> 
+<p>${pergunta}</p> 
 </div>
 <div class="cartao_conteudo_resposta">
- <p>$resposta</p>
+ <p>${resposta}</p>
 </div>
 </div>
 `
