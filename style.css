@@ -7,3 +7,11 @@
     --cor-texto-destaque: #4B0082;
 
 }
+body{
+    background-color: var(--fundo);
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    
+}
